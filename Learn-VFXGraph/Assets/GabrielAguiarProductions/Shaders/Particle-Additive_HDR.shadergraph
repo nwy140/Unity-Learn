@@ -56,6 +56,9 @@
     "m_StickyNoteDatas": [
         {
             "m_Id": "a599eb34121c429f80424c165ab7485a"
+        },
+        {
+            "m_Id": "ed68ad791c2e46f18ea919a333f23466"
         }
     ],
     "m_Edges": [
@@ -593,7 +596,7 @@
         "b": 1.0,
         "a": 1.0
     },
-    "m_ColorMode": 0
+    "m_ColorMode": 1
 }
 
 {
@@ -1330,8 +1333,8 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -373.0,
-            "y": -109.00001525878906,
-            "width": 208.0,
+            "y": -108.99998474121094,
+            "width": 208.00001525878907,
             "height": 302.0
         }
     },
@@ -1366,6 +1369,26 @@
     "m_ShaderOutputName": "Sampler",
     "m_StageCapability": 3,
     "m_BareResource": false
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "ed68ad791c2e46f18ea919a333f23466",
+    "m_Title": "Additive Shader",
+    "m_Content": "Write something here",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -285.0,
+        "y": -370.0,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
